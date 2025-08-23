@@ -65,3 +65,7 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [Toy Fair 2025 Exhibitor List](https://tfny2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [CES Tech Exhibitor List](https://exhibitors.ces.tech/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [PACK EXPO Las Vegas 2025 Exhibitor List](https://packexpo25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [WEFTEC 2025 Exhibitor List](https://weftec25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
