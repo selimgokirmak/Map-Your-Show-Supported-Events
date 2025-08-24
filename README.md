@@ -71,3 +71,5 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [WEFTEC 2025 Exhibitor List](https://weftec25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [ISE 2026 Exhibitor List](https://ise2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [PRINTING United Expo 2025 Exhibitor List](https://pru25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
