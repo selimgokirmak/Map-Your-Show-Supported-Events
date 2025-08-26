@@ -73,3 +73,12 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [ISE 2026 Exhibitor List](https://ise2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [PRINTING United Expo 2025 Exhibitor List](https://pru25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [IBIE (International Baking Industry Exposition) 2025 Exhibitor List](https://ibie2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+
+## 👇 Check My Other Exhibitor List Scrapers
+
+- [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper)
+
+- [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper)
