@@ -15,6 +15,10 @@ Supports multiple Map Your Show trade fair websites with a consistent HTML struc
 
 - [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper)
 
+- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+
+- [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -23,6 +27,8 @@ This scraper is designed to extract data from exhibitor directories with the sam
 ### ❓ How to identify a supported website:
 
 ✅ Exhibitor listing page URL usually contains `/8_0/explore/`.
+
+- An example event website URL: https://ibc2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false
 
 ✅ Exhibitor listing page format should be the same as the sample websites below.
 
@@ -84,3 +90,15 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [IBIE (International Baking Industry Exposition) 2025 Exhibitor List](https://ibie2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [OFC 2026 Exhibitor List](https://ofc26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [SATELLITE and GovMilSpace 2026 Exhibitor List](https://satellite2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Work Truck Week 2026 Exhibitor List](https://wtw26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [analytica USA 2025 Exhibitor List](https://aus2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Great American Outdoor Show 2026 Exhibitor List](https://gaos2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [The NAMM Show 2025 Exhibitor List](https://namm25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Carbon Capture Canada 2025 Exhibitor List](https://cccanada2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
