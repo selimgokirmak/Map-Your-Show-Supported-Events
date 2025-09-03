@@ -9,6 +9,11 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 Supports multiple Map Your Show trade fair websites with a consistent HTML structure.
 
 
+## 🔎 Testing Exhibitor List URLs for FREE
+
+Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+
+
 ## 👇 Check My Other Exhibitor List Scrapers
 
 - [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper)
@@ -31,8 +36,6 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - An example event website URL: https://ibc2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false
 
 ✅ Exhibitor listing page format should be the same as the sample websites below.
-
-💡 **If you are unsure whether your target event website is supported,** you can run a test with the exhibitor listing page URL — if no results are returned, the website is not compatible.
 
 
 ## 🌐 Supported Map Your Show Events (Exhibitor Lists)
@@ -102,3 +105,7 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [The NAMM Show 2025 Exhibitor List](https://namm25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [Carbon Capture Canada 2025 Exhibitor List](https://cccanada2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [The Battery Show 2025 Exhibitor List](https://tbsm25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [NRF 2026: Retail's Big Show Exhibitor List](https://bigshow26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
