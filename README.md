@@ -24,6 +24,10 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
+- [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
+
+- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -109,3 +113,23 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [The Battery Show 2025 Exhibitor List](https://tbsm25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [NRF 2026: Retail's Big Show Exhibitor List](https://bigshow26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [CES 2026 Exhibitor List](https://ces26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [World of Concrete 2026 Exhibitor List](https://ge26woc.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [transport logistic Americas & air cargo Americas 2025 Exhibitor List](https://tlacamericas2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [AHR EXPO 2026 Exhibitor List](https://ahr26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [RSNA 2025 Exhibitor List](https://rsna2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [HIMSS 2026 Exhibitor List](https://himss26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [SHRM 2025 Conference & Expo Exhibitor List](https://shrm25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [SEMA Show 2025 Exhibitor List](https://sema25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Global Security Exchange 2025 Exhibitor List](https://gsx25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Global Produce & Floral Show 2025 Exhibitor List](https://25conv.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
