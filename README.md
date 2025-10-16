@@ -11,7 +11,9 @@ Supports multiple Map Your Show trade fair websites with a consistent HTML struc
 
 ## 🔎 Testing Exhibitor List URLs for FREE
 
-Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
+
+- Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
 
 
 ## 👇 Check My Other Exhibitor List Scrapers
@@ -28,18 +30,22 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/
 
 - [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
+- [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
+
+- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+
+- [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
-This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Map Your Show exhibitor lists.
+- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Map Your Show exhibitor lists below.
 
-### ❓ How to identify a supported website:
+- Exhibitor listing page URL usually contains `/8_0/explore/`.
 
-✅ Exhibitor listing page URL usually contains `/8_0/explore/`.
+- Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
-- An example event website URL: https://ibc2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false
-
-✅ Exhibitor listing page format should be the same as the sample websites below.
+- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor.
 
 
 ## 🌐 Supported Map Your Show Events (Exhibitor Lists)
@@ -133,3 +139,27 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [Global Security Exchange 2025 Exhibitor List](https://gsx25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [Global Produce & Floral Show 2025 Exhibitor List](https://25conv.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [ISSA Show North America 2025 Exhibitor List](https://ge25issa.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [North American International Toy Fair 2026 Exhibitor List](https://tfny2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [DEMA Show 2025 Exhibitor List](https://dema25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [NAR NXT 2025 Exhibitor List](https://narnxt25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [HLTH 2025 Exhibitor List](https://hlth2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [EUROPEAN ROTORS 2025 Exhibitor List](https://europeanrotors2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [MODEX 2026 Exhibitor List](https://mx2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [IACP 2025 Exhibitor List](https://iacp2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [TCI EXPO 2025 Exhibitor List](https://tci2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [PSP/Deck Expo 2025 Exhibitor List](https://ge25psp.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [GlassBuild America 2025 Exhibitor List](https://glassbuildamerica2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [International Roofing Expo (IRE) 2026 Exhibitor List](https://ge26ire.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
