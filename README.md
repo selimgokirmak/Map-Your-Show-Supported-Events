@@ -225,3 +225,31 @@ Supports multiple Map Your Show trade fair websites with a consistent HTML struc
 - [ISA SIGN EXPO 2026 Exhibitor List – isasignexpo2026.mapyourshow.com](https://isasignexpo2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [RE+ 2026 Exhibitor List – re26.mapyourshow.com](https://re26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [POWERGEN 2026 Exhibitor List – pg2026.mapyourshow.com](https://pg2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [tise 2026 Exhibitor List – ge26tise.mapyourshow.com](https://ge26tise.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Digestive Disease Week 2026 Exhibitor List – ddw26.mapyourshow.com](https://ddw26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [International Manufacturing Technology Show 2026 Exhibitor List – directory.imts.com](https://directory.imts.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [MDM West 2026 Exhibitor List – mdmwest26.mapyourshow.com](https://mdmwest26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [JLC LIVE New England 2026 Exhibitor List – ge26jlcne.mapyourshow.com](https://ge26jlcne.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Inside Self-Storage World Expo 2026 Exhibitor List – ge26iss.mapyourshow.com](https://ge26iss.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Seatrade Cruise Global 2026 Exhibitor List – stcglobal2026.mapyourshow.com](https://stcglobal2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [F&B 2026 Exhibitor List – fnb2026.mapyourshow.com](https://fnb2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [The Battery Show 2026 Exhibitor List – tbss26.mapyourshow.com](https://tbss26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [MD&M South 2026 Exhibitor List – imesouth26.mapyourshow.com](https://imesouth26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [The Battery Show Europe 2026 Exhibitor List – tbse26.mapyourshow.com](https://tbse26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [The NGA Show 2025 Exhibitor List – isg0225.mapyourshow.com](https://isg0225.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [ICAST 2026 Exhibitor List – icast2026.mapyourshow.com](https://icast2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
