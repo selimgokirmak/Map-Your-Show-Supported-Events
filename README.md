@@ -59,7 +59,7 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 
 - This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Map Your Show exhibitor lists below.
 
-- Exhibitor listing page URL usually contains `/8_0/explore/`.
+- Exhibitor listing page URL usually contains `/8_0/`.
 
 - Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
@@ -71,6 +71,14 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 **Note:** *The following list includes Map Your Show exhibitor directory URLs that have been tested so far. Other Map Your Show or different events with the same website structure may also be supported.*
 
 ### 2026
+
+- [TRANSACT 2026 Exhibitor List – transact26.mapyourshow.com](https://transact26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Sea Air Space 2026 Exhibitor List – sas26.mapyourshow.com](https://sas26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [The PPAI Expo 2026 Exhibitor List – ppaiexpo26.mapyourshow.com](https://ppaiexpo26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Southeast Design-2-Part Show 2026 Exhibitor List – d2pga26.mapyourshow.com](https://d2pga26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [Sweets & Snacks Expo 2026 Exhibitor List – sse26.mapyourshow.com](https://sse26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
@@ -242,6 +250,8 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 
 
 ### 2025
+
+- [NYSCC Suppliers' Day 2025 Exhibitor List – nysuppliers25.mapyourshow.com](https://nysuppliers25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [NAB Show New York 2025 Exhibitor List – nabny25.mapyourshow.com](https://nabny25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
