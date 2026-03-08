@@ -72,6 +72,22 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 
 ### 2026
 
+- [Equip Exposition 2026 Exhibitor List – equipexpo26.mapyourshow.com](https://equipexpo26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [PACK EXPO International 2026 Exhibitor List – packexpo26.mapyourshow.com](https://packexpo26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [AONL 2026 Chicago Exhibitor List – aonl26.mapyourshow.com](https://aonl26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [IAAPA Expo Europe 2026 Exhibitor List – iaapaexpoeurope26.mapyourshow.com](https://iaapaexpoeurope26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [ABC Kids Expo 2026 Exhibitor List – abckids2026.mapyourshow.com](https://abckids2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [CAMEX 2026 Exhibitor List – camex26.mapyourshow.com](https://camex26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [NBAA Schedulers and Dispatchers Conference 2026 Exhibitor List – sdc2026.mapyourshow.com](https://sdc2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [ISPE-CaSA Tech Show 2026 Exhibitor List – ispecasatechshow26.mapyourshow.com](https://ispecasatechshow26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
 - [TRANSACT 2026 Exhibitor List – transact26.mapyourshow.com](https://transact26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [Sea Air Space 2026 Exhibitor List – sas26.mapyourshow.com](https://sas26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
@@ -250,6 +266,8 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 
 
 ### 2025
+
+- [ProMat 2025 Exhibitor List – pm2025.mapyourshow.com](https://pm2025.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [NYSCC Suppliers' Day 2025 Exhibitor List – nysuppliers25.mapyourshow.com](https://nysuppliers25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
