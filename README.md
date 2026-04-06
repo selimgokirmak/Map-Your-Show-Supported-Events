@@ -24,17 +24,17 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 
 - [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper)
 
-- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+- [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
-- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+- [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 
@@ -54,6 +54,8 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
 
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -71,6 +73,18 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 **Note:** *The following list includes Map Your Show exhibitor directory URLs that have been tested so far. Other Map Your Show or different events with the same website structure may also be supported.*
 
 ### 2026
+
+- [AORN Expo 2026 Exhibitor List – aorn26.mapyourshow.com](https://aorn26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [ISSA Show North America 2026 Exhibitor List – ge26issa.mapyourshow.com](https://ge26issa.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [CIM CONNECT 2026 Exhibitor List – cim2026.mapyourshow.com](https://cim2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [TDA Meeting 2026 Exhibitor List – tda2026.mapyourshow.com](https://tda2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Food Northwest Process & Packaging Expo 2026 Exhibitor List – fnwppe26.mapyourshow.com](https://fnwppe26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Environmental Trade Fair and Conference 2026 Exhibitor List – tceq26.mapyourshow.com](https://tceq26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [Equip Exposition 2026 Exhibitor List – equipexpo26.mapyourshow.com](https://equipexpo26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
@@ -364,3 +378,10 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 - [IBEX 2025 Exhibitor List – ibex25.mapyourshow.com](https://ibex25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [InfoComm 2025 Exhibitor List – infocomm25.mapyourshow.com](https://infocomm25.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+
+### 2027
+
+- [NPE2027: The Plastics Show Exhibitor List – npe2027.mapyourshow.com](https://npe2027.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [DTECH 2027 Exhibitor List – dt2027.mapyourshow.com](https://dt2027.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
