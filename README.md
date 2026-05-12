@@ -56,12 +56,16 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 
 - [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
 
+- [Newfront Exhibitor List Scraper](https://apify.com/skython/newfront-exhibitor-list-scraper)
+
+- [Goeshow Exhibitor List Scraper](https://apify.com/skython/goeshow-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
 - This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Map Your Show exhibitor lists below.
 
-- Exhibitor listing page URL usually contains `/8_0/`.
+- Exhibitor listing page URL should contain `/8_0`.
 
 - Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
@@ -73,6 +77,36 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 **Note:** *The following list includes Map Your Show exhibitor directory URLs that have been tested so far. Other Map Your Show or different events with the same website structure may also be supported.*
 
 ### 2026
+
+- [MD&M Midwest 2026 Exhibitor List – admmn26.mapyourshow.com](https://admmn26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [CDA Presents in Anaheim 2026 Exhibitor List – cda26.mapyourshow.com](https://cda26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [IAAPA Expo 2026 Exhibitor List – iaapaexpo26.mapyourshow.com](https://iaapaexpo26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [AIA Conference on Architecture and Design 2026 Exhibitor List – aia26.mapyourshow.com](https://aia26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Licensing Expo 2026 Exhibitor List – licensing26.mapyourshow.com](https://licensing26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Techtextil North America 2026 Exhibitor List – ttnaw26.mapyourshow.com](https://ttnaw26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [VERTICON 2026 Exhibitor List – verticon26.mapyourshow.com](https://verticon26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [AHIP 2026 Exhibitor List – ahip2026.mapyourshow.com](https://ahip2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [NATDA Trailer Show 2026 Exhibitor List – natda26.mapyourshow.com](https://natda26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Textiles Recycling Expo USA 2026 Exhibitor List – treusa2026.mapyourshow.com](https://treusa2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [Nacha Payments 2026 Exhibitor List – payments2026.mapyourshow.com](https://payments2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [The MedTech Conference 2026 Exhibitor List – medtech26.mapyourshow.com](https://medtech26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [EXPO PACK México 2026 Exhibitor List – epm2026.mapyourshow.com](https://epm2026.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [CLEANPOWER 2026 Exhibitor List – cp26.mapyourshow.com](https://cp26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
+
+- [DEMA Show 2026 Exhibitor List – dema26.mapyourshow.com](https://dema26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [AORN Expo 2026 Exhibitor List – aorn26.mapyourshow.com](https://aorn26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
@@ -381,6 +415,8 @@ Supports multiple **Map Your Show** trade fair websites with a consistent HTML s
 
 
 ### 2027
+
+- [NRF 2027: Retail's Big Show Exhibitor List – bigshow27.mapyourshow.com](https://bigshow27.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
 - [NPE2027: The Plastics Show Exhibitor List – npe2027.mapyourshow.com](https://npe2027.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false)
 
